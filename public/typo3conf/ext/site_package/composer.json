@@ -1,0 +1,16 @@
+{
+    "name": "armin/first-extension",
+    "authors": [
+        {
+           "name": "TYPO3 Core Team",
+           "role": "Developer"
+        }
+    ],
+    "type": "typo3-cms-extension",
+    "description": "An extension for using Fluid",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "typo3/cms-core": ">=10.4 <11.0.0"
+    },
+    "minimum-stability": "dev"
+}

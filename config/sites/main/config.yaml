@@ -1,0 +1,21 @@
+base: 'http://localhost:8888/typo3-exercise/myFirstTypo/public/'
+baseVariants:
+  -
+    base: 'localhost:8888'
+    condition: 'applicationContext == "Development"'
+languages:
+  -
+    title: German
+    enabled: true
+    languageId: 0
+    base: /
+    typo3Language: de
+    locale: de_DE.UTF-8
+    iso-639-1: de
+    navigationTitle: German
+    hreflang: de
+    direction: ltr
+    flag: de
+    websiteTitle: ''
+rootPageId: 10
+websiteTitle: ''
