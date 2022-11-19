@@ -1,8 +1,9 @@
 Admin Zugang:
-admin_Armin 
-arm2022in
+admin
+admin
 
-vom root Verzeichnis: ../../../bin/php/php7.4.21/bin/php  ../../../bin/php/composer 
+Mit Mamp vom root Verzeichnis:
+ *`../../../bin/php/php7.4.21/bin/php  ../../../bin/php/composer `
 
 # TYPO3 CMS Base Distribution
 
